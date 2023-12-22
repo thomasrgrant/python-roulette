@@ -23,6 +23,8 @@ Features:
 
     Detailed Statistics:
         Track simulation results with detailed statistics, such as consecutive misses, max misses, and betting outcomes.
+This is my BetVoyager Referral link.
+https://betvoyager.com/equal-odds/?p=E4AO05&lid=17 
 
 You can view a short video of how it works here.
 https://youtu.be/O5GmBhS8jj0?si=UlA2lJ2xwHE2YJMK
