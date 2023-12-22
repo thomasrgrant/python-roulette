@@ -3,6 +3,11 @@ Python Roulette V3.2
 Overview:
 
 Python Roulette V3.2 is a powerful Python script designed for playing on the BetVoyager.com No Zero Roulette table (Flash Version). Whether in demo or real mode, this versatile script utilizes mouse interactions to place bets on the table, offering users an interactive and automated experience.
+
+This is a ONE of a KIND script.
+There is NOTHING else out there like this.
+Or at least nothing that I have seen.
+
 Features:
 
     BetVoyager Compatibility:
