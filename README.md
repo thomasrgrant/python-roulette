@@ -19,7 +19,7 @@ Features:
         Compares the image of the generated roulette number with images in the project's folder, enabling accurate result tracking.
 
     Customizable Betting Strategies:
-        Explore a variety of betting strategies, including martingale, Fibonacci, and user-defined progression methods.
+        Martingale. (You can change when to start betting on different bets)
 
     Detailed Statistics:
         Track simulation results with detailed statistics, such as consecutive misses, max misses, and betting outcomes.
